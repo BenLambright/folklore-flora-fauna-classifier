@@ -1,0 +1,123 @@
+T1	Deciduous 39 44	PEACH
+T2	Deciduous 685 692	willows
+T3	Fish 1257 1261	fish
+T4	Deciduous 1361 1366	peach
+T5	Deciduous 1454 1459	peach
+T6	Deciduous 1539 1544	peach
+T7	Deciduous 1577 1582	peach
+T8	Deciduous 1870 1875	peach
+T9	Deciduous 2028 2033	peach
+T10	Deciduous 2269 2274	peach
+T11	Crop 2577 2583	bamboo
+T12	Deciduous 2632 2637	peach
+T13	Deciduous 3602 3607	peach
+T14	Deciduous 3727 3732	peach
+T15	Deciduous 3786 3791	peach
+T16	Deciduous 3859 3864	peach
+T17	Deciduous 4191 4196	peach
+T18	Deciduous 4258 4263	peach
+T19	Deciduous 5158 5163	PEACH
+T20	Deciduous 5194 5199	peach
+T21	Tree 9163 9167	tree
+T22	Canine 9240 9243	dog
+T23	Canine 9858 9861	dog
+T24	Canine 10460 10463	dog
+T25	Canine 10721 10724	dog
+T26	Canine 10790 10793	dog
+T27	Tree 10924 10928	tree
+T28	Canine 11116 11119	dog
+T29	Canine 11167 11170	dog
+T30	Primate 11206 11212	monkey
+T31	Canine 11290 11293	dog
+T32	Primate 11302 11308	monkey
+T33	Canine 11468 11471	dog
+T34	Canine 11570 11573	dog
+T35	Canine 11645 11648	dog
+T36	Primate 11666 11672	monkey
+T37	Primate 11703 11709	monkey
+T38	Primate 11746 11752	monkey
+T39	Primate 11988 11994	monkey
+T40	Primate 12109 12115	monkey
+T41	Canine 12137 12140	dog
+T42	Primate 12149 12155	monkey
+T43	Canine 12337 12340	dog
+T44	Primate 12374 12380	monkey
+T45	Bird 12524 12528	bird
+T46	Bird 12627 12631	bird
+T47	Canine 12758 12761	dog
+T48	Bird 12781 12785	bird
+T49	Bird 12826 12830	bird
+T50	Canine 12868 12871	dog
+T51	Bird 12973 12977	bird
+T52	Canine 13117 13120	dog
+T53	Bird 13139 13143	bird
+T54	Canine 13268 13271	dog
+T55	Bird 13308 13312	bird
+T56	Canine 13445 13448	dog
+T57	Bird 13504 13508	bird
+T58	Fowl 13518 13526	pheasant
+T59	Canine 13643 13646	dog
+T60	Primate 13655 13661	monkey
+T61	Bird 13814 13818	bird
+T62	Canine 13845 13848	dog
+T63	Bird 13953 13957	bird
+T64	Canine 14007 14010	dog
+T65	Canine 14401 14404	dog
+T66	Primate 14410 14416	monkey
+T67	Fowl 14425 14433	pheasant
+T68	Fowl 14580 14588	pheasant
+T69	Canine 15032 15035	dog
+T70	Primate 15044 15050	monkey
+T71	Fowl 15059 15067	pheasant
+T72	Canine 15857 15860	dog
+T73	Primate 15899 15905	monkey
+T74	Fowl 15953 15961	pheasant
+T75	Primate 16014 16020	monkey
+T76	Fowl 16070 16078	pheasant
+T77	Canine 16105 16108	dog
+T78	Canine 16441 16444	dog
+T79	Primate 16450 16456	monkey
+T80	Fowl 16465 16473	pheasant
+T81	Fowl 17700 17708	pheasant
+T82	Bird 17788 17792	bird
+T83	Insect 17820 17823	Fly
+T84	Fowl 17906 17914	pheasant
+T85	Bird 18000 18004	bird
+T86	Fowl 18456 18464	pheasant
+T87	Canine 18470 18473	dog
+T88	Primate 18482 18488	monkey
+T89	Fowl 18595 18603	pheasant
+T90	Fowl 18634 18642	pheasant
+T91	Feline 18892 18897	tiger
+T92	Fowl 19010 19018	pheasant
+T93	Fowl 19078 19086	pheasant
+T94	Bird 19353 19358	birds
+T95	Primate 19714 19720	monkey
+T96	Canine 19729 19732	dog
+T97	Fowl 20644 20652	pheasant
+T98	Bird 20866 20870	bird
+T99	Fowl 20876 20884	pheasant
+T100	Canine 20916 20919	dog
+T101	Primate 20928 20934	monkey
+T102	Primate 22023 22029	monkey
+T103	Canine 22182 22185	dog
+T104	Fowl 22194 22202	pheasant
+A1	Motif_attribute1 T21 Default
+A2	Motif_attribute2 T21 Neutral
+#1	AnnotatorNotes T83	verb not the insect
+A3	Motif_attribute1 T102 Default
+A4	Motif_attribute2 T102 Good
+A5	Motif_attribute1 T103 Default
+A6	Motif_attribute2 T103 Good
+A7	Motif_attribute1 T104 Default
+A8	Motif_attribute2 T104 Good
+A9	Motif_attribute1 T19 Default
+A10	Motif_attribute2 T19 Neutral
+A11	Motif_attribute1 T2 Default
+A12	Motif_attribute2 T2 Neutral
+A13	Motif_attribute1 T3 Default
+A14	Motif_attribute2 T3 Neutral
+A15	Motif_attribute1 T11 Default
+A16	Motif_attribute2 T11 Neutral
+A17	Motif_attribute1 T94 Default
+A18	Motif_attribute2 T94 Good

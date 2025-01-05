@@ -1,0 +1,39 @@
+T1	Insect 221 224	Bee
+T2	Insect 234 237	Bee
+T3	Insect 268 271	Bee
+T4	Tree 296 300	tree
+T5	Insect 421 424	Bee
+T6	Insect 471 474	Bee
+T7	Insect 580 583	Bee
+T8	Insect 604 607	Bee
+T9	Insect 788 791	Bee
+T10	Flower 893 899	Flower
+T11	Flower 912 918	Flower
+T12	Flower 955 962	flowers
+T13	Flower 1025 1032	flowers
+T14	Flower 1071 1077	Flower
+T15	Flower 1120 1127	flowers
+T16	Deciduous 1174 1180	orange
+T17	Flower 1246 1253	flowers
+T18	Insect 1498 1501	Bee
+T19	Flower 1599 1605	Flower
+T20	Flower 1626 1633	flowers
+T21	Flower 1691 1697	Flower
+T22	Flower 1733 1740	flowers
+T23	Insect 1886 1889	bee
+T24	Flower 2109 2115	Flower
+T25	Flower 2292 2298	Flower
+T26	Insect 2347 2350	Bee
+T27	Tree 2353 2357	tree
+T28	Insect 2417 2420	Bee
+T29	Tree 2470 2474	tree
+T30	Tree 2790 2794	tree
+T31	Flower 2956 2963	flowers
+T32	Plant 2969 2975	plants
+A1	Motif_attribute1 T1 Protagonist
+A2	Motif_attribute2 T1 Good
+A3	Motif_attribute1 T4 Default
+A4	Motif_attribute2 T4 Neutral
+A5	Motif_attribute1 T12 Default
+A6	Motif_attribute2 T12 Good
+#1	AnnotatorNotes T16	this is the color not the fruit

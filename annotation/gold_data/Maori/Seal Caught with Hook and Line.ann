@@ -1,0 +1,11 @@
+T1	Marine-Mammal 0 4	Seal
+T2	Canine 265 268	dog
+T3	Marine-Mammal 429 433	seal
+T4	Marine-Mammal 441 445	seal
+T5	Canine 660 663	dog
+T6	Canine 695 698	dog
+T7	Marine-Mammal 788 792	seal
+A1	Motif_attribute1 T3 Default
+A2	Motif_attribute2 T3 Neutral
+A3	Motif_attribute1 T2 Default
+A4	Motif_attribute2 T2 Neutral

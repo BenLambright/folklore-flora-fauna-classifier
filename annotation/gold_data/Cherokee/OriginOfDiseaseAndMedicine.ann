@@ -1,0 +1,62 @@
+T1	Fish 33 39	fishes
+T2	Plant 54 60	plants
+T3	Fish 467 473	fishes
+T4	Insect 557 562	worms
+T5	Deciduous 820 828	Mulberry
+T6	Bear 855 859	Bear
+T7	Bear 1441 1445	Bear
+T8	Bear 1637 1641	Bear
+T9	Bear 2010 2014	Bear
+T10	Tree 2105 2110	trees
+T11	Primate 2548 2553	human
+T12	Bear 2693 2697	Bear
+T13	Ungulate 2731 2735	Deer
+T14	Ungulate 2786 2790	Deer
+T15	Ungulate 3100 3104	Deer
+T16	Ungulate 3146 3150	Deer
+T17	Ungulate 3163 3167	Deer
+T18	Ungulate 3303 3307	Deer
+T19	Ungulate 3411 3415	Deer
+T20	Ungulate 3604 3608	Deer
+T21	Ungulate 3785 3789	Deer
+T22	Ungulate 3893 3897	Deer
+T23	Snake 4117 4123	snakes
+T24	Fish 4246 4250	fish
+T25	Snake 4334 4340	snakes
+T26	Fish 4345 4349	fish
+T27	Rodent 5393 5401	squirrel
+T28	Rodent 5555 5563	squirrel
+T29	Primate 5781 5786	human
+T30	Flower 6040 6044	rose
+T31	Tree 6509 6513	Tree
+T32	Shrub 6515 6520	Shrub
+T33	Plant 6735 6741	plants
+T34	Plant 6876 6881	weeds
+T35	Plant 7037 7042	plant
+A1	Motif_attribute1 T1 Default
+A2	Motif_attribute2 T1 Neutral
+A3	Motif_attribute1 T2 Default
+A4	Motif_attribute2 T2 Neutral
+A5	Motif_attribute1 T4 Default
+A6	Motif_attribute2 T4 Neutral
+A7	Motif_attribute1 T10 Default
+A8	Motif_attribute2 T10 Neutral
+A9	Motif_attribute1 T5 Default
+A10	Motif_attribute2 T5 Neutral
+A11	Motif_attribute1 T11 Antagonist
+A12	Motif_attribute2 T11 Evil
+#1	AnnotatorNotes T30	verb not the flower
+A13	Motif_attribute1 T31 Default
+A14	Motif_attribute2 T31 Good
+A15	Motif_attribute1 T32 Default
+A16	Motif_attribute2 T32 Good
+A17	Motif_attribute1 T33 Default
+A18	Motif_attribute2 T33 Good
+A19	Motif_attribute1 T34 Default
+A20	Motif_attribute2 T34 Good
+A21	Motif_attribute1 T28 Default
+A22	Motif_attribute2 T28 Neutral
+A23	Motif_attribute1 T12 Protagonist
+A24	Motif_attribute2 T12 Good
+A25	Motif_attribute1 T13 Default
+A26	Motif_attribute2 T13 Good

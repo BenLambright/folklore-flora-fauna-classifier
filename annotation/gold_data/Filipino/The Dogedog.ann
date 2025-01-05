@@ -1,0 +1,63 @@
+T1	Crop 651 657	bamboo
+T2	Tree 691 695	tree
+T3	Feline 748 751	cat
+T4	Tree 1023 1027	tree
+T5	Feline 1060 1063	cat
+T6	Tree 1199 1203	tree
+T7	Feline 1218 1221	cat
+T8	Feline 1295 1298	cat
+T9	Feline 1382 1385	cat
+T10	Feline 1458 1461	cat
+T11	Fowl 1639 1643	cock
+T12	Fowl 1669 1673	cock
+T13	Fowl 1872 1876	cock
+T14	Crocodilia 1932 1941	alligator
+T15	Fowl 2011 2015	cock
+T16	Fowl 2078 2085	rooster
+T17	Crocodilia 2131 2140	alligator
+T18	Ungulate 2247 2251	deer
+T19	Fowl 2309 2313	cock
+T20	Ungulate 2392 2396	deer
+T21	Insect 2490 2494	ants
+T22	Fowl 2607 2611	cock
+T23	Tree 2785 2789	tree
+T24	Primate 2805 2811	monkey
+T25	Primate 2858 2864	monkey
+T26	Tree 2923 2927	tree
+T27	Crocodilia 3006 3015	alligator
+T28	Ungulate 3121 3125	deer
+T29	Primate 3314 3320	monkey
+T30	Fowl 3483 3490	rooster
+T31	Feline 3509 3512	cat
+T32	Fowl 3548 3552	cock
+T33	Feline 3591 3594	cat
+T34	Fowl 3623 3631	roosters
+T35	Fowl 3670 3674	cock
+T36	Fowl 3820 3825	cocks
+T37	Fowl 3899 3904	cocks
+T38	Crocodilia 4060 4069	alligator
+T39	Ungulate 4174 4178	deer
+T40	Primate 4445 4451	monkey
+T41	Ungulate 4578 4584	horses
+A1	Motif_attribute1 T21 Default
+A2	Motif_attribute2 T21 Neutral
+A3	Motif_attribute1 T1 Default
+A4	Motif_attribute2 T1 Neutral
+A5	Motif_attribute1 T2 Default
+A6	Motif_attribute2 T2 Neutral
+A7	Motif_attribute1 T3 Default
+A8	Motif_attribute2 T3 Neutral
+A9	Motif_attribute1 T11 Default
+A10	Motif_attribute2 T11 Good
+A11	Motif_attribute1 T14 Default
+A12	Motif_attribute2 T14 Good
+A13	Motif_attribute1 T16 Default
+A14	Motif_attribute2 T16 Good
+A15	Motif_attribute1 T18 Default
+A16	Motif_attribute2 T18 Good
+A17	Motif_attribute1 T23 Default
+A18	Motif_attribute2 T23 Neutral
+A19	Motif_attribute1 T24 Default
+A20	Motif_attribute2 T24 Good
+A21	Motif_attribute1 T41 Default
+A22	Motif_attribute2 T41 Neutral

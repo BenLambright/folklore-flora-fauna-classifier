@@ -1,0 +1,54 @@
+T1	Crop 4 10	BAMBOO
+T2	Crop 73 79	bamboo
+T3	Crop 340 346	bamboo
+T4	Crop 547 553	bamboo
+T5	Crop 770 777	bamboos
+T6	Crop 849 856	bamboos
+T7	Crop 1021 1027	bamboo
+T8	Crop 1183 1189	bamboo
+T9	Crop 1426 1433	bamboos
+T10	Crop 2045 2052	bamboos
+T11	Crop 2237 2243	bamboo
+T12	Crop 2336 2342	bamboo
+T13	Crop 5603 5609	bamboo
+T14	Crop 6272 6278	bamboo
+T15	Crop 8143 8149	bamboo
+T16	Crop 9649 9655	bamboo
+T17	Tree 10366 10370	tree
+T18	Tree 10414 10418	tree
+T19	Rodent 10567 10570	rat
+T20	Tree 12717 12721	tree
+T21	Tree 13231 13235	tree
+T22	Shrub 13531 13538	lacquer
+T23	Crop 13565 13571	bamboo
+T24	Tree 14356 14360	tree
+T25	Flower 15452 15456	rose
+T26	Tree 15836 15840	tree
+T27	Rodent 17433 17436	rat
+T28	Rodent 17818 17821	rat
+T29	Crop 17958 17964	bamboo
+T30	Shrub 18260 18265	crape
+T31	Crop 21817 21823	bamboo
+T32	Crop 22053 22059	bamboo
+T33	Crop 22935 22941	bamboo
+T34	Crop 25201 25207	bamboo
+T35	Crop 25926 25932	bamboo
+T36	Flower 26846 26850	rose
+T37	Coniferous 26946 26950	pine
+T38	Crop 26959 26965	bamboo
+T39	Crop 28113 28120	bamboos
+T40	Crop 28942 28948	bamboo
+A3	Motif_attribute1 T17 Default
+A4	Motif_attribute2 T17 Neutral
+A5	Motif_attribute1 T19 Default
+A6	Motif_attribute2 T19 Neutral
+A7	Motif_attribute1 T22 Default
+A8	Motif_attribute2 T22 Neutral
+#1	AnnotatorNotes T25	verb not the flower
+A9	Motif_attribute1 T30 Default
+A10	Motif_attribute2 T30 Neutral
+#2	AnnotatorNotes T36	verb not the flower
+A11	Motif_attribute1 T37 Default
+A12	Motif_attribute2 T37 Neutral
+A1	Motif_attribute1 T10 Default
+A2	Motif_attribute2 T10 Good

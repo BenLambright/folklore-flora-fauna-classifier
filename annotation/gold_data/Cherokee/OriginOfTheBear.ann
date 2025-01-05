@@ -1,0 +1,14 @@
+T1	Crop 684 688	corn
+T2	Crop 693 698	beans
+T3	Primate 1956 1961	human
+T4	Bear 2135 2140	bears
+T5	Bear 2394 2398	bear
+T6	Bear 2617 2622	bears
+A1	Motif_attribute1 T1 Default
+A2	Motif_attribute2 T1 Neutral
+A3	Motif_attribute1 T2 Default
+A4	Motif_attribute2 T2 Neutral
+A5	Motif_attribute1 T3 Default
+A6	Motif_attribute2 T3 Neutral
+A7	Motif_attribute1 T4 Protagonist
+A8	Motif_attribute2 T4 Neutral

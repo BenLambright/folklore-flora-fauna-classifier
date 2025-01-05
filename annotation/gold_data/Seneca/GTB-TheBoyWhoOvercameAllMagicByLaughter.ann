@@ -1,0 +1,87 @@
+T1	Tree 121 126	trees
+T2	Bear 1200 1204	bear
+T3	Tree 2231 2235	tree
+T4	Bird 2436 2440	bird
+T5	Tree 2461 2465	tree
+T6	Other-Mammal 2766 2773	raccoon
+T7	Other-Mammal 2912 2916	coon
+T8	Other-Mammal 3070 3077	raccoon
+T9	Other-Mammal 3776 3783	raccoon
+T10	Tree 3999 4003	tree
+T11	Tree 4125 4129	tree
+T12	Bird 4481 4485	bird
+T13	Lbb 4672 4681	chickadee
+T14	Other-Mammal 4898 4905	raccoon
+T15	Fowl 5138 5144	turkey
+T16	Ungulate 5265 5269	deer
+T17	Fowl 6531 6535	duck
+T18	Rodent 7221 7227	beaver
+T19	Rodent 7314 7320	beaver
+T20	Tree 8228 8233	trees
+T21	Lizard 8747 8753	lizard
+T22	Lizard 9381 9387	lizard
+T23	Fish 9643 9647	fish
+T24	Lizard 9737 9743	Lizard
+T25	Deciduous 9798 9803	ashes
+T26	Strigiform 9905 9909	owls
+T27	Lizard 9929 9935	lizard
+T28	Strigiform 10240 10244	owls
+T29	Strigiform 10357 10361	owls
+T30	Strigiform 10548 10552	owls
+T31	Strigiform 10573 10577	owls
+T32	Snake 11873 11881	serpents
+T33	Flower 11882 11886	rose
+T34	Snake 12080 12088	serpents
+T35	Crop 12365 12369	corn
+T36	Crop 12551 12555	corn
+T37	Ungulate 13183 13187	deer
+T38	Ungulate 13720 13724	deer
+T39	Lizard 14298 14304	lizard
+T40	Lizard 14426 14432	lizard
+T41	Lizard 14711 14717	lizard
+T42	Corvid 14882 14887	crows
+T43	Ungulate 15986 15990	deer
+T44	Crop 16230 16234	corn
+T45	Deciduous 18709 18716	hickory
+T46	Tree 19744 19749	trees
+A1	Motif_attribute1 T1 Default
+A2	Motif_attribute2 T1 Neutral
+A3	Motif_attribute1 T2 Default
+A4	Motif_attribute2 T2 Neutral
+A5	Motif_attribute1 T4 Default
+A6	Motif_attribute2 T4 Neutral
+A7	Motif_attribute1 T6 Default
+A8	Motif_attribute2 T6 Neutral
+A9	Motif_attribute1 T7 Default
+A10	Motif_attribute2 T7 Neutral
+A11	Motif_attribute1 T12 Default
+A12	Motif_attribute2 T12 Neutral
+A13	Motif_attribute1 T13 Default
+A14	Motif_attribute2 T13 Neutral
+A15	Motif_attribute1 T15 Default
+A16	Motif_attribute2 T15 Neutral
+A17	Motif_attribute1 T16 Default
+A18	Motif_attribute2 T16 Neutral
+A19	Motif_attribute1 T17 Default
+A20	Motif_attribute2 T17 Neutral
+A21	Motif_attribute1 T18 Default
+A22	Motif_attribute2 T18 Neutral
+A23	Motif_attribute1 T21 Default
+A24	Motif_attribute2 T21 Neutral
+A25	Motif_attribute1 T23 Default
+A26	Motif_attribute2 T23 Neutral
+A27	Motif_attribute1 T26 Default
+A28	Motif_attribute2 T26 Neutral
+A29	Motif_attribute1 T32 Default
+A30	Motif_attribute2 T32 Neutral
+#1	AnnotatorNotes T33	verb not the flower
+A31	Motif_attribute1 T35 Default
+A32	Motif_attribute2 T35 Neutral
+A33	Motif_attribute1 T37 Default
+A34	Motif_attribute2 T37 Neutral
+A35	Motif_attribute1 T42 Default
+A36	Motif_attribute2 T42 Neutral
+A37	Motif_attribute1 T45 Default
+A38	Motif_attribute2 T45 Neutral
+A39	Motif_attribute1 T46 Default
+A40	Motif_attribute2 T46 Neutral

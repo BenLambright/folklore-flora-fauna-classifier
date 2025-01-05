@@ -1,0 +1,18 @@
+T1	Coniferous 8 14	Totara
+T2	Tree 61 66	trees
+T3	Coniferous 152 158	totara
+T4	Coniferous 167 171	rimu
+T5	Coniferous 315 321	totara
+T6	Coniferous 402 406	rimu
+T7	Tree 519 523	tree
+T8	Coniferous 608 614	totara
+T9	Coniferous 677 683	totara
+T10	Coniferous 795 801	totara
+T11	Coniferous 933 939	totara
+T12	Tree 1189 1193	tree
+A1	Motif_attribute1 T3 Protagonist
+A2	Motif_attribute2 T3 Neutral
+A3	Motif_attribute1 T4 Default
+A4	Motif_attribute2 T4 Neutral
+A5	Motif_attribute1 T2 Default
+A6	Motif_attribute2 T2 Neutral

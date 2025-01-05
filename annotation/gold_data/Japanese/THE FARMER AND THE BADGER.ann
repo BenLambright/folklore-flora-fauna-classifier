@@ -1,0 +1,97 @@
+T1	Mustelid 19 25	BADGER
+T2	Mustelid 187 193	badger
+T3	Mustelid 200 206	badger
+T4	Mustelid 373 379	badger
+T5	Mustelid 663 669	badger
+T6	Mustelid 831 837	badger
+T7	Mustelid 1073 1079	badger
+T8	Mustelid 1232 1238	badger
+T9	Mustelid 1319 1325	badger
+T10	Tree 1709 1714	trees
+T11	Crop 1779 1785	barley
+T12	Mustelid 2000 2006	badger
+T13	Mustelid 2416 2422	badger
+T14	Crop 2707 2713	barley
+T15	Mustelid 2952 2958	badger
+T16	Mustelid 3563 3569	badger
+T17	Mustelid 3908 3914	badger
+T18	Mustelid 4035 4041	badger
+T19	Mustelid 4101 4107	badger
+T20	Mustelid 4200 4206	badger
+T21	Mustelid 4413 4419	badger
+T22	Mustelid 4637 4643	badger
+T23	Mustelid 4711 4717	badger
+T24	Mustelid 5369 5375	badger
+T25	Lagomorph 5819 5825	rabbit
+T26	Lagomorph 6028 6034	rabbit
+T27	Mustelid 6097 6103	badger
+T28	Lagomorph 6265 6271	rabbit
+T29	Lagomorph 6330 6336	rabbit
+T30	Mustelid 6446 6452	badger
+T31	Lagomorph 6500 6506	rabbit
+T32	Mustelid 6528 6534	badger
+T33	Lagomorph 6624 6630	rabbit
+T34	Mustelid 6661 6667	badger
+T35	Lagomorph 6820 6826	rabbit
+T36	Mustelid 6966 6972	badger
+T37	Lagomorph 7002 7008	rabbit
+T38	Lagomorph 7160 7166	rabbit
+T39	Lagomorph 7537 7543	rabbit
+T40	Mustelid 7553 7559	badger
+T41	Lagomorph 7609 7615	rabbit
+T42	Mustelid 7670 7676	badger
+T43	Mustelid 7751 7757	badger
+T44	Lagomorph 7874 7880	rabbit
+T45	Mustelid 8021 8027	badger
+T46	Mustelid 8040 8046	badger
+T47	Lagomorph 8175 8181	rabbit
+T48	Mustelid 8273 8279	badger
+T49	Mustelid 8390 8396	badger
+T50	Lagomorph 8438 8444	rabbit
+T51	Lagomorph 8551 8557	rabbit
+T52	Lagomorph 8669 8675	rabbit
+T53	Mustelid 8741 8747	badger
+T54	Mustelid 8785 8791	badger
+T55	Mustelid 9055 9061	badger
+T56	Bear 9153 9157	bear
+T57	Mustelid 9255 9261	badger
+T58	Mustelid 9356 9362	badger
+T59	Lagomorph 9476 9482	rabbit
+T60	Mustelid 9560 9566	badger
+T61	Lagomorph 9693 9699	rabbit
+T62	Mustelid 9713 9719	badger
+T63	Mustelid 9843 9849	badger
+T64	Lagomorph 9930 9936	rabbit
+T65	Mustelid 10066 10072	badger
+T66	Lagomorph 10103 10109	rabbit
+T67	Lagomorph 10282 10288	rabbit
+T68	Fish 10339 10343	fish
+T69	Lagomorph 10368 10374	rabbit
+T70	Lagomorph 10518 10524	rabbit
+T71	Mustelid 10668 10674	badger
+T72	Lagomorph 10705 10711	rabbit
+T73	Mustelid 10737 10743	badger
+T74	Mustelid 10798 10804	badger
+T75	Mustelid 10824 10830	badger
+T76	Lagomorph 10929 10935	rabbit
+T77	Lagomorph 11044 11050	rabbit
+T78	Mustelid 11138 11144	badger
+T79	Mustelid 11272 11278	badger
+T80	Lagomorph 11389 11395	rabbit
+T81	Lagomorph 11417 11423	rabbit
+T82	Mustelid 11566 11572	badger
+T83	Mustelid 11709 11715	badger
+T84	Lagomorph 11859 11865	rabbit
+T85	Mustelid 12013 12019	badger
+T86	Lagomorph 12312 12318	rabbit
+T87	Lagomorph 12377 12383	rabbit
+A1	Motif_attribute1 T10 Default
+A2	Motif_attribute2 T10 Neutral
+A3	Motif_attribute1 T11 Default
+A4	Motif_attribute2 T11 Neutral
+A5	Motif_attribute1 T16 Antagonist
+A6	Motif_attribute2 T16 Evil
+#1	AnnotatorNotes T56	not the animal
+#2	AnnotatorNotes T68	verb not the animal
+A7	Motif_attribute1 T81 Protagonist
+A8	Motif_attribute2 T81 Good

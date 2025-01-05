@@ -1,0 +1,19 @@
+T1	Fowl 24 27	Hen
+T2	Bird 178 182	bird
+T3	Bird 224 228	bird
+T4	Fowl 880 883	hen
+T5	Fish 1019 1023	fish
+T6	Strigiform 1260 1263	owl
+T7	Bat 1268 1271	bat
+T8	Bird 1343 1348	birds
+T9	Bird 1445 1450	birds
+A1	Motif_attribute1 T2 Protagonist
+A2	Motif_attribute2 T2 Neutral
+A3	Motif_attribute1 T5 Default
+A4	Motif_attribute2 T5 Neutral
+A5	Motif_attribute1 T4 Protagonist
+A6	Motif_attribute2 T4 Neutral
+A7	Motif_attribute1 T6 Protagonist
+A8	Motif_attribute2 T6 Neutral
+A9	Motif_attribute1 T7 Protagonist
+A10	Motif_attribute2 T7 Neutral

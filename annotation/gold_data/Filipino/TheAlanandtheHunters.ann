@@ -1,0 +1,13 @@
+T1	Ungulate 31 34	pig
+T2	Tree 166 170	tree
+T3	Ungulate 651 654	pig
+T4	Ungulate 754 757	pig
+T5	Tree 1603 1607	tree
+T6	Tree 1854 1858	tree
+T7	Tree 2034 2038	tree
+A1	Motif_attribute1 T5 Default
+A2	Motif_attribute2 T5 Neutral
+A3	Motif_attribute1 T2 Default
+A4	Motif_attribute2 T2 Neutral
+A5	Motif_attribute1 T1 Default
+A6	Motif_attribute2 T1 Neutral

@@ -1,0 +1,37 @@
+T1	Ungulate 65 69	deer
+T2	Ungulate 79 82	pig
+T3	Canine 216 219	dog
+T4	Ungulate 282 286	deer
+T5	Bird 445 449	bird
+T6	Tree 489 493	tree
+T7	Tree 629 633	tree
+T8	Bird 786 791	birds
+T9	Ungulate 809 813	pigs
+T10	Ungulate 874 878	pigs
+T11	Bird 932 937	birds
+T12	Bird 974 978	bird
+T13	Ungulate 992 996	pigs
+T14	Ungulate 1001 1005	deer
+T15	Bird 1064 1069	birds
+T16	Insect 1118 1121	fly
+T17	Bird 1207 1212	birds
+T18	Ungulate 1633 1636	cow
+T19	Ungulate 1645 1649	pigs
+T20	Fowl 1938 1945	chicken
+T21	Ungulate 1980 1983	cow
+T22	Ungulate 1988 1992	pigs
+T23	Fowl 2372 2379	chicken
+T24	Fowl 2581 2588	chicken
+A1	Motif_attribute1 T1 Default
+A2	Motif_attribute2 T1 Neutral
+A3	Motif_attribute1 T2 Default
+A4	Motif_attribute2 T2 Neutral
+A5	Motif_attribute1 T3 Default
+A6	Motif_attribute2 T3 Neutral
+A7	Motif_attribute1 T5 Default
+A8	Motif_attribute2 T5 Neutral
+A9	Motif_attribute1 T6 Default
+A10	Motif_attribute2 T6 Neutral
+#1	AnnotatorNotes T16	verb not the insect
+A11	Motif_attribute1 T20 Default
+A12	Motif_attribute2 T20 Neutral

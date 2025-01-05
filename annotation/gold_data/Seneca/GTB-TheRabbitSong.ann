@@ -1,0 +1,7 @@
+T1	Lagomorph 70 76	rabbit
+T2	Lagomorph 263 270	rabbits
+T3	Lagomorph 1332 1338	rabbit
+T4	Lagomorph 1583 1589	rabbit
+T5	Lagomorph 1766 1773	rabbits
+A1	Motif_attribute1 T4 Default
+A2	Motif_attribute2 T4 Neutral

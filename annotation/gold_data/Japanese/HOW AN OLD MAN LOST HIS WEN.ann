@@ -1,0 +1,17 @@
+T1	Tree 1482 1486	tree
+T2	Tree 2253 2257	tree
+T3	Tree 2528 2532	tree
+T4	Tree 3054 3058	tree
+T5	Tree 3115 3119	tree
+T6	Tree 3191 3195	tree
+T7	Tree 3585 3589	tree
+T8	Tree 4164 4168	tree
+T9	Deciduous 6946 6950	plum
+T10	Tree 6960 6964	tree
+T11	Tree 8797 8801	tree
+T12	Tree 9019 9023	tree
+T13	Tree 9462 9466	tree
+A1	Motif_attribute1 T1 Default
+A2	Motif_attribute2 T1 Neutral
+A3	Motif_attribute1 T9 Default
+A4	Motif_attribute2 T9 Neutral

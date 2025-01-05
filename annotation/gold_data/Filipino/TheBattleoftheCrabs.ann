@@ -1,0 +1,22 @@
+T1	Decapod 17 22	crabs
+T2	Decapod 202 207	crabs
+T3	Decapod 325 330	crabs
+T4	Decapod 421 427	shrimp
+T5	Decapod 475 481	shrimp
+T6	Decapod 532 537	crabs
+T7	Decapod 645 651	shrimp
+T8	Decapod 818 823	crabs
+T9	Decapod 857 863	shrimp
+T10	Decapod 953 958	crabs
+T11	Decapod 988 994	shrimp
+T12	Decapod 1104 1110	shrimp
+T13	Decapod 1242 1248	shrimp
+T14	Decapod 1307 1312	crabs
+T15	Decapod 1456 1461	crabs
+T16	Decapod 1727 1732	crabs
+T17	Decapod 1766 1772	shrimp
+T18	Decapod 1864 1869	crabs
+T19	Decapod 2152 2157	crabs
+A1	Motif_attribute1 T8 Protagonist
+A3	Motif_attribute1 T12 Antagonist
+A4	Motif_attribute2 T12 Good

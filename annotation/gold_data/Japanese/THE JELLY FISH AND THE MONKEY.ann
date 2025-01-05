@@ -1,0 +1,153 @@
+T1	Fish 10 14	FISH
+T2	Primate 23 29	MONKEY
+T3	Fish 1139 1143	fish
+T4	Insect 1429 1436	beetles
+T5	Marine-Mammal 1729 1735	whales
+T6	Decapod 1755 1762	shrimps
+T7	Fish 1954 1958	Fish
+T8	Fish 2122 2126	fish
+T9	Flower 2254 2258	rose
+T10	Fish 2962 2966	fish
+T11	Primate 3795 3801	monkey
+T12	Primate 3849 3855	monkey
+T13	Primate 4118 4124	monkey
+T14	Primate 4227 4233	Monkey
+T15	Primate 4260 4267	monkeys
+T16	Primate 4318 4325	monkeys
+T17	Primate 4384 4390	monkey
+T18	Primate 4437 4444	monkeys
+T19	Fish 4996 5000	fish
+T20	Testudine 5108 5116	tortoise
+T21	Fish 5187 5191	fish
+T22	Fish 5301 5305	fish
+T23	Primate 5513 5520	monkeys
+T24	Primate 5676 5682	monkey
+T25	Primate 5757 5763	monkey
+T26	Fish 5818 5822	fish
+T27	Primate 6307 6313	monkey
+T28	Primate 6329 6336	monkeys
+T29	Fish 6375 6379	fish
+T30	Fish 6686 6690	fish
+T31	Primate 6753 6759	Monkey
+T32	Coniferous 6919 6923	pine
+T33	Tree 6924 6928	tree
+T34	Primate 7021 7027	monkey
+T35	Fish 7065 7069	fish
+T36	Fish 7205 7209	fish
+T37	Coniferous 7236 7240	pine
+T38	Tree 7241 7245	tree
+T39	Fish 7279 7283	fish
+T40	Testudine 7322 7330	tortoise
+T41	Coniferous 7351 7355	pine
+T42	Tree 7356 7360	tree
+T43	Primate 7414 7420	Monkey
+T44	Primate 7481 7487	monkey
+T45	Tree 7497 7501	tree
+T46	Fish 7640 7644	fish
+T47	Fish 7796 7800	fish
+T48	Primate 7843 7849	monkey
+T49	Fish 7883 7887	fish
+T50	Primate 8035 8041	monkey
+T51	Fish 8278 8282	fish
+T52	Primate 8331 8337	monkey
+T53	Fish 8373 8377	fish
+T54	Tree 8541 8546	trees
+T55	Primate 8658 8664	monkey
+T56	Tree 8732 8736	tree
+T57	Fish 8846 8850	fish
+T58	Primate 8879 8885	Monkey
+T59	Primate 9203 9209	monkey
+T60	Primate 9399 9405	monkey
+T61	Fish 9505 9509	fish
+T62	Primate 9526 9532	monkey
+T63	Primate 9595 9601	monkey
+T64	Fish 9619 9623	fish
+T65	Primate 9789 9795	monkey
+T66	Fish 9832 9836	fish
+T67	Primate 9873 9879	monkey
+T68	Fish 9942 9946	fish
+T69	Primate 10004 10010	monkey
+T70	Primate 10050 10056	Monkey
+T71	Primate 10118 10124	monkey
+T72	Fish 10198 10202	fish
+T73	Fish 10292 10296	fish
+T74	Primate 10423 10429	monkey
+T75	Fish 10488 10492	fish
+T76	Primate 10501 10507	monkey
+T77	Fish 10571 10575	fish
+T78	Fish 10750 10754	fish
+T79	Primate 10779 10785	monkey
+T80	Primate 10933 10939	monkey
+T81	Fish 11160 11164	fish
+T82	Primate 11178 11184	monkey
+T83	Primate 11347 11353	monkey
+T84	Primate 11624 11630	monkey
+T85	Fish 11710 11714	fish
+T86	Fish 11750 11754	Fish
+T87	Fish 11928 11932	fish
+T88	Primate 11972 11978	monkey
+T89	Coniferous 12326 12330	pine
+T90	Tree 12331 12335	tree
+T91	Fish 12396 12400	fish
+T92	Primate 12429 12435	monkey
+T93	Tree 12512 12516	tree
+T94	Tree 12578 12582	tree
+T95	Tree 12586 12590	tree
+T96	Fish 12824 12828	fish
+T97	Primate 12902 12908	monkey
+T98	Primate 12919 12925	monkey
+T99	Fish 12976 12980	fish
+T100	Primate 13002 13008	monkey
+T101	Primate 13033 13039	monkey
+T102	Fish 13232 13236	fish
+T103	Primate 13321 13327	monkey
+T104	Fish 13485 13489	fish
+T105	Primate 13520 13526	Monkey
+T106	Fish 13572 13576	fish
+T107	Primate 13608 13614	monkey
+T108	Coniferous 13647 13651	pine
+T109	Tree 13652 13656	tree
+T110	Fish 13673 13677	fish
+T111	Fish 13811 13815	fish
+T112	Fish 13956 13960	fish
+T113	Primate 14049 14055	monkey
+T114	Primate 14140 14146	monkey
+T115	Fish 14280 14284	fish
+T116	Primate 14379 14385	monkey
+T117	Fish 14422 14426	fish
+T118	Fish 14667 14671	fish
+T119	Primate 14790 14796	monkey
+T120	Tree 14816 14820	tree
+T121	Fish 14857 14861	fish
+T122	Primate 15103 15109	monkey
+T123	Fish 15262 15266	fish
+T124	Primate 15431 15437	Monkey
+T125	Primate 15480 15486	monkey
+T126	Fish 15543 15547	fish
+T127	Primate 15613 15619	monkey
+T128	Primate 15710 15716	monkey
+T129	Fish 15875 15879	fish
+T130	Fish 16056 16060	fish
+T131	Fish 16260 16264	fish
+T132	Fish 16587 16591	fish
+T133	Testudine 16636 16644	tortoise
+T134	Fish 16734 16740	fishes
+A1	Motif_attribute1 T3 Default
+A2	Motif_attribute2 T3 Neutral
+A3	Motif_attribute1 T4 Default
+A4	Motif_attribute2 T4 Neutral
+A5	Motif_attribute1 T5 Default
+A6	Motif_attribute2 T5 Neutral
+A7	Motif_attribute1 T6 Default
+A8	Motif_attribute2 T6 Neutral
+#1	AnnotatorNotes T9	verb not the flower
+A9	Motif_attribute1 T20 Default
+A10	Motif_attribute2 T20 Neutral
+A11	Motif_attribute1 T32 Default
+A12	Motif_attribute2 T32 Neutral
+A13	Motif_attribute1 T33 Default
+A14	Motif_attribute2 T33 Neutral
+A15	Motif_attribute1 T121 Protagonist
+A16	Motif_attribute2 T121 Neutral
+A17	Motif_attribute1 T119 Antagonist
+A18	Motif_attribute2 T119 Neutral

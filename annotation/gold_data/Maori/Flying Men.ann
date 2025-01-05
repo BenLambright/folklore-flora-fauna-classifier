@@ -1,0 +1,6 @@
+T1	Crop 1007 1013	potato
+T2	Tree 3434 3438	tree
+A1	Motif_attribute1 T1 Default
+A2	Motif_attribute2 T1 Neutral
+A3	Motif_attribute1 T2 Default
+A4	Motif_attribute2 T2 Neutral

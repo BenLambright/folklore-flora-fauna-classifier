@@ -1,0 +1,6 @@
+T1	Tree 993 997	tree
+T2	Fowl 1155 1161	Turkey
+A1	Motif_attribute1 T1 Default
+A2	Motif_attribute2 T1 Neutral
+A3	Motif_attribute1 T2 Antagonist
+A4	Motif_attribute2 T2 Evil

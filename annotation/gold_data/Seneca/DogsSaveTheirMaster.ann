@@ -1,0 +1,51 @@
+T1	Canine 61 65	dogs
+T2	Bear 109 113	bear
+T3	Canine 321 325	dogs
+T4	Deciduous 385 388	elm
+T5	Tree 389 393	tree
+T6	Tree 443 447	tree
+T7	Canine 501 505	dogs
+T8	Tree 539 543	tree
+T9	Tree 639 643	tree
+T10	Canine 672 676	dogs
+T11	Tree 754 758	tree
+T12	Canine 929 932	dog
+T13	Canine 949 952	dog
+T14	Tree 981 985	tree
+T15	Canine 1059 1062	dog
+T16	Tree 1129 1133	tree
+T17	Canine 1359 1363	dogs
+T18	Canine 1659 1662	dog
+T19	Canine 1794 1798	dogs
+T20	Tree 1910 1914	tree
+T21	Tree 1918 1922	tree
+T22	Tree 1970 1975	trees
+T23	Canine 2292 2295	dog
+T24	Canine 2434 2437	dog
+T25	Canine 2446 2449	dog
+T26	Canine 2518 2521	dog
+T27	Canine 2574 2577	dog
+T28	Canine 2751 2754	dog
+T29	Canine 2791 2795	dogs
+T30	Canine 2848 2851	dog
+T31	Canine 2898 2901	dog
+T32	Canine 3037 3040	dog
+T33	Canine 3074 3078	dogs
+T34	Canine 3154 3157	dog
+T35	Tree 3269 3274	trees
+T36	Canine 3319 3322	dog
+T37	Canine 3662 3665	dog
+T38	Canine 3851 3854	dog
+T39	Canine 3937 3940	dog
+T40	Canine 4148 4151	dog
+T41	Canine 4253 4256	dog
+T42	Canine 4874 4877	dog
+T43	Canine 4934 4937	dog
+A3	Motif_attribute1 T22 Default
+A4	Motif_attribute2 T22 Neutral
+A5	Motif_attribute1 T4 Default
+A6	Motif_attribute2 T4 Neutral
+A7	Motif_attribute1 T2 Default
+A8	Motif_attribute2 T2 Neutral
+A9	Motif_attribute1 T1 Protagonist
+A10	Motif_attribute2 T1 Good

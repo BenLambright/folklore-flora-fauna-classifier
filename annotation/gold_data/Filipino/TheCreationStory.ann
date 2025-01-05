@@ -1,0 +1,15 @@
+T1	Bird 119 123	bird
+T2	Crop 595 601	bamboo
+T3	Crop 621 627	bamboo
+T4	Bird 720 724	bird
+T5	Crop 778 784	bamboo
+T6	Bird 887 892	birds
+T7	Fish 897 901	fish
+A1	Motif_attribute1 T5 Protagonist
+A2	Motif_attribute2 T5 Neutral
+A3	Motif_attribute1 T4 Protagonist
+A4	Motif_attribute2 T4 Good
+A5	Motif_attribute1 T7 Default
+A6	Motif_attribute2 T7 Neutral
+A7	Motif_attribute1 T6 Default
+A8	Motif_attribute2 T6 Neutral

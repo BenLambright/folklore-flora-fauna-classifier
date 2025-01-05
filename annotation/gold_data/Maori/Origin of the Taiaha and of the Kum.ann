@@ -1,0 +1,11 @@
+T1	Tree 458 462	tree
+T2	Crop 944 950	potato
+T3	Crop 1705 1711	potato
+T4	Crop 2012 2018	potato
+T5	Crop 2136 2142	potato
+T6	Crop 2241 2249	potatoes
+T7	Bird 2275 2279	bird
+A1	Motif_attribute1 T1 Default
+A2	Motif_attribute2 T1 Good
+A3	Motif_attribute1 T2 Antagonist
+A4	Motif_attribute2 T2 Neutral

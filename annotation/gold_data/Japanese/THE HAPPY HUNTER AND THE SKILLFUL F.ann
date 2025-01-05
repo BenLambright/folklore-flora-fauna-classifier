@@ -1,0 +1,83 @@
+T1	Mustelid 34 40	FISHER
+T2	Mustelid 498 504	fisher
+T3	Mustelid 600 606	Fisher
+T4	Mustelid 881 887	Fisher
+T5	Fish 1031 1035	fish
+T6	Fish 1407 1411	fish
+T7	Mustelid 1441 1447	Fisher
+T8	Mustelid 1934 1940	Fisher
+T9	Fish 2274 2278	fish
+T10	Fish 2381 2385	fish
+T11	Fish 2455 2459	fish
+T12	Fish 2513 2517	fish
+T13	Mustelid 2613 2619	fisher
+T14	Fish 2838 2842	fish
+T15	Mustelid 3319 3325	Fisher
+T16	Mustelid 5243 5249	Fisher
+T17	Mustelid 5407 5413	Fisher
+T18	Fish 6953 6957	fish
+T19	Tree 8962 8967	trees
+T20	Tree 9412 9417	trees
+T21	Tree 9587 9591	tree
+T22	Tree 10251 10256	trees
+T23	Tree 10461 10466	trees
+T24	Tree 10615 10619	tree
+T25	Tree 10894 10898	tree
+T26	Tree 11243 11247	tree
+T27	Tree 11492 11496	tree
+T28	Tree 11689 11693	tree
+T29	Fish 15984 15988	fish
+T30	Fish 17446 17452	fishes
+T31	Fish 17661 17667	fishes
+T32	Fish 17715 17719	fish
+T33	Fish 18371 18377	fishes
+T34	Cephalopod 18942 18949	octopus
+T35	Fish 18990 18994	fish
+T36	Eel 19000 19003	eel
+T37	Fish 19015 19019	fish
+T38	Decapod 19025 19031	shrimp
+T39	Fish 19064 19070	fishes
+T40	Fish 19615 19621	fishes
+T41	Fish 19841 19847	fishes
+T42	Fish 20383 20387	fish
+T43	Fish 20467 20471	fish
+T44	Fish 22654 22660	fishes
+T45	Fish 23331 23335	fish
+T46	Fish 23779 23783	fish
+T47	Mustelid 24056 24062	Fisher
+T48	Flower 26647 26651	rose
+T49	Tree 28442 28447	trees
+T50	Crocodilia 28572 28581	crocodile
+T51	Crocodilia 28961 28970	crocodile
+T52	Crocodilia 29033 29042	crocodile
+T53	Mustelid 29102 29108	Fisher
+T54	Mustelid 29474 29480	Fisher
+T55	Mustelid 29980 29986	Fisher
+T56	Bear 30182 30186	bear
+T57	Mustelid 30889 30895	Fisher
+T58	Bear 31104 31108	bear
+T59	Mustelid 31446 31452	Fisher
+T60	Mustelid 31935 31941	Fisher
+T61	Mustelid 32121 32127	Fisher
+T62	Mustelid 32339 32345	Fisher
+T63	Mustelid 32850 32856	Fisher
+A1	Motif_attribute1 T19 Default
+A2	Motif_attribute2 T19 Neutral
+A3	Motif_attribute1 T29 Default
+A4	Motif_attribute2 T29 Neutral
+A5	Motif_attribute1 T34 Default
+A6	Motif_attribute2 T34 Neutral
+A7	Motif_attribute1 T35 Default
+A8	Motif_attribute1 T36 Default
+A9	Motif_attribute2 T36 Neutral
+A10	Motif_attribute1 T38 Default
+A11	Motif_attribute2 T38 Neutral
+A12	Motif_attribute1 T47 Antagonist
+A13	Motif_attribute2 T47 Evil
+#1	AnnotatorNotes T48	verb not the flower
+A14	Motif_attribute1 T49 Default
+A15	Motif_attribute2 T49 Neutral
+A16	Motif_attribute1 T51 Default
+A17	Motif_attribute2 T51 Neutral
+#2	AnnotatorNotes T56	not the animal
+#3	AnnotatorNotes T58	not the animal

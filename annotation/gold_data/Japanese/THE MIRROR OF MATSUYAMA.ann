@@ -1,0 +1,31 @@
+T1	Coniferous 3595 3600	pines
+T2	Crop 5730 5736	bamboo
+T3	Shrub 5813 5820	lacquer
+T4	Coniferous 6802 6806	pine
+T5	Tree 6807 6812	trees
+T6	Ciconiidae 6817 6823	storks
+T7	Flower 9541 9548	flowers
+T8	Bear 13051 13055	bear
+T9	Bear 21940 21944	bear
+T10	Flower 25494 25499	lotus
+T11	Fish 27727 27731	fish
+A1	Motif_attribute1 T1 Default
+A2	Motif_attribute2 T1 Neutral
+A3	Motif_attribute1 T2 Default
+A4	Motif_attribute2 T2 Neutral
+A5	Motif_attribute1 T3 Default
+A6	Motif_attribute2 T3 Neutral
+A7	Motif_attribute1 T4 Default
+A8	Motif_attribute2 T4 Neutral
+A9	Motif_attribute1 T5 Default
+A10	Motif_attribute2 T5 Neutral
+A11	Motif_attribute1 T6 Default
+A12	Motif_attribute2 T6 Neutral
+A13	Motif_attribute1 T7 Default
+A14	Motif_attribute2 T7 Neutral
+#1	AnnotatorNotes T8	not the animal
+#2	AnnotatorNotes T9	not the animal
+A15	Motif_attribute1 T10 Default
+A16	Motif_attribute2 T10 Neutral
+A17	Motif_attribute1 T11 Default
+A18	Motif_attribute2 T11 Neutral

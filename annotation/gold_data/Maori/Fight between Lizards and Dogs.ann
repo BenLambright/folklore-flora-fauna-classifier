@@ -1,0 +1,16 @@
+T1	Lizard 90 96	lizard
+T2	Lizard 126 133	lizards
+T3	Lizard 229 235	lizard
+T4	Canine 250 253	dog
+T5	Canine 406 410	dogs
+T6	Canine 448 452	dogs
+T7	Lizard 581 588	lizards
+T8	Lizard 606 612	lizard
+T9	Canine 724 728	dogs
+T10	Lizard 799 806	lizards
+T11	Lizard 834 841	lizards
+T12	Canine 877 880	dog
+A1	Motif_attribute1 T1 Protagonist
+A2	Motif_attribute2 T1 Evil
+A3	Motif_attribute1 T4 Antagonist
+A4	Motif_attribute2 T4 Evil

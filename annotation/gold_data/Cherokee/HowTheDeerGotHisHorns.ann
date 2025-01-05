@@ -1,0 +1,12 @@
+T1	Ungulate 21 25	Deer
+T2	Lagomorph 114 120	Rabbit
+T3	Lagomorph 707 713	Rabbit
+T4	Lagomorph 858 864	Rabbit
+T5	Lagomorph 1074 1080	Rabbit
+T6	Lagomorph 1270 1276	Rabbit
+T7	Ungulate 1506 1510	Deer
+T8	Lagomorph 1600 1606	Rabbit
+A1	Motif_attribute1 T1 Protagonist
+A2	Motif_attribute2 T1 Neutral
+A3	Motif_attribute1 T2 Antagonist
+A4	Motif_attribute2 T2 Evil

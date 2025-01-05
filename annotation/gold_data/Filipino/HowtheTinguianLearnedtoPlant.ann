@@ -1,0 +1,26 @@
+T1	Plant 55 60	plant
+T2	Fish 152 156	fish
+T3	Crop 691 696	sugar
+T4	Plant 771 776	plant
+T5	Crop 943 948	sugar
+T6	Crop 1139 1144	sugar
+T7	Plant 1210 1215	plant
+T8	Canine 1632 1635	dog
+T9	Fowl 1642 1646	cock
+T10	Canine 1756 1759	dog
+T11	Fowl 1768 1772	cock
+T12	Canine 1819 1822	dog
+T13	Fowl 1831 1835	cock
+T14	Canine 1950 1953	dog
+T15	Fowl 1973 1977	cock
+A1	Motif_attribute1 T2 Default
+A2	Motif_attribute2 T2 Neutral
+A3	Motif_attribute1 T1 Default
+A4	Motif_attribute2 T1 Neutral
+#1	AnnotatorNotes T1	verb instead of noun here
+A5	Motif_attribute1 T3 Default
+A6	Motif_attribute2 T3 Neutral
+A7	Motif_attribute1 T8 Default
+A8	Motif_attribute2 T8 Evil
+A9	Motif_attribute1 T9 Default
+A10	Motif_attribute2 T9 Neutral

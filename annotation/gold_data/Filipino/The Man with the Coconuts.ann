@@ -1,0 +1,11 @@
+T1	Fern 68 76	coconuts
+T2	Ungulate 88 93	horse
+T3	Ungulate 266 271	horse
+T4	Ungulate 416 421	horse
+T5	Fern 431 439	coconuts
+T6	Ungulate 505 510	horse
+T7	Fern 558 566	coconuts
+A1	Motif_attribute1 T1 Default
+A2	Motif_attribute2 T1 Neutral
+A3	Motif_attribute1 T2 Default
+A4	Motif_attribute2 T2 Neutral

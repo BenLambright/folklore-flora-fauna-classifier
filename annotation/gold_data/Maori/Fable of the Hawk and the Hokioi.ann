@@ -1,0 +1,35 @@
+T1	Raptor 13 17	Hawk
+T2	Raptor 95 99	hawk
+T3	Insect 140 143	fly
+T4	Bird 274 278	bird
+T5	Bird 549 553	bird
+T6	Bird 909 913	bird
+T7	Bird 1207 1211	bird
+T8	Bird 1329 1333	bird
+T9	Raptor 1342 1346	hawk
+T10	Bird 1591 1595	bird
+T11	Bird 1678 1682	bird
+T12	Raptor 1725 1729	hawk
+T13	Raptor 1735 1739	hawk
+T14	Raptor 1886 1890	hawk
+T15	Raptor 1922 1926	hawk
+T16	Raptor 1945 1949	hawk
+T17	Raptor 2167 2171	hawk
+T18	Raptor 2321 2325	hawk
+T19	Raptor 2640 2647	harrier
+T20	Insect 2740 2743	fly
+T21	Insect 2795 2798	fly
+T22	Bird 2829 2833	bird
+T23	Raptor 2882 2889	harrier
+T24	Raptor 2986 2993	harrier
+#1	AnnotatorNotes T3	verb not the insect
+A1	Motif_attribute1 T12 Antagonist
+A2	Motif_attribute2 T12 Neutral
+A3	Motif_attribute1 T10 Protagonist
+A4	Motif_attribute2 T10 Neutral
+A5	Motif_attribute1 T19 Antagonist
+A6	Motif_attribute2 T19 Evil
+A7	Motif_attribute1 T22 Protagonist
+A8	Motif_attribute2 T22 Good
+#2	AnnotatorNotes T20	verb not the insect
+#3	AnnotatorNotes T21	verb not the insect

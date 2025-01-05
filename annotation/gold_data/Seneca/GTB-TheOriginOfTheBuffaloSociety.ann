@@ -1,0 +1,23 @@
+T1	Ungulate 2509 2518	buffaloes
+T2	Ungulate 3075 3082	buffalo
+T3	Ungulate 3139 3148	buffaloes
+T4	Ungulate 4246 4255	buffaloes
+T5	Ungulate 4346 4353	buffalo
+T6	Ungulate 4510 4517	buffalo
+T7	Ungulate 4617 4624	buffalo
+T8	Ungulate 4958 4965	buffalo
+T9	Ungulate 5108 5115	buffalo
+T10	Ungulate 5460 5467	buffalo
+T11	Ungulate 5570 5577	buffalo
+T12	Ungulate 5775 5782	buffalo
+T13	Ungulate 6007 6014	buffalo
+T14	Ungulate 6220 6227	buffalo
+T15	Ungulate 6746 6753	buffalo
+T16	Ungulate 7099 7108	buffaloes
+T17	Ungulate 7287 7294	buffalo
+T18	Ungulate 7581 7590	buffaloes
+T19	Ungulate 7724 7731	buffalo
+T20	Ungulate 8266 8275	buffaloes
+A1	Motif_attribute1 T14 Antagonist
+A3	Motif_attribute1 T19 Default
+A4	Motif_attribute2 T19 Good

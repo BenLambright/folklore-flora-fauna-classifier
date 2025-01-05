@@ -1,0 +1,28 @@
+T1	Mbb 4 10	Cuckoo
+T2	Mbb 23 29	cuckoo
+T3	Mbb 119 125	cuckoo
+T4	Mbb 253 259	cuckoo
+T5	Plant 354 359	plant
+T6	Mbb 378 384	cuckoo
+T7	Crop 582 588	potato
+T8	Mbb 666 672	cuckoo
+T9	Lizard 797 803	lizard
+T10	Bird 855 859	bird
+T11	Bird 914 918	bird
+T12	Mbb 1036 1042	cuckoo
+T13	Mbb 1088 1094	cuckoo
+T14	Bird 1443 1447	bird
+T15	Tree 1502 1507	trees
+A1	Motif_attribute1 T5 Default
+A2	Motif_attribute2 T5 Neutral
+#1	AnnotatorNotes T5	verb instead of noun here
+A3	Motif_attribute1 T7 Default
+A4	Motif_attribute2 T7 Neutral
+A5	Motif_attribute1 T9 Default
+A6	Motif_attribute2 T9 Neutral
+A7	Motif_attribute1 T10 Default
+A8	Motif_attribute2 T10 Neutral
+A9	Motif_attribute1 T15 Default
+A10	Motif_attribute2 T15 Neutral
+A11	Motif_attribute1 T2 Protagonist
+A12	Motif_attribute2 T2 Good

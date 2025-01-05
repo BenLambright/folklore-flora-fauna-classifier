@@ -1,0 +1,43 @@
+T1	Mustelid 404 409	Otter
+T2	Lagomorph 785 791	Rabbit
+T3	Mustelid 874 879	Otter
+T4	Mustelid 986 991	Otter
+T5	Mustelid 1119 1124	Otter
+T6	Mustelid 1196 1201	Otter
+T7	Lagomorph 1271 1277	Rabbit
+T8	Mustelid 1407 1412	Otter
+T9	Lagomorph 1520 1526	Rabbit
+T10	Mustelid 1567 1572	Otter
+T11	Lagomorph 1745 1751	Rabbit
+T12	Mustelid 1839 1844	Otter
+T13	Lagomorph 1873 1879	Rabbit
+T14	Lagomorph 2042 2048	Rabbit
+T15	Mustelid 2098 2103	Otter
+T16	Lagomorph 2220 2226	Rabbit
+T17	Lagomorph 2262 2268	Rabbit
+T18	Mustelid 2349 2354	Otter
+T19	Lagomorph 2424 2430	Rabbit
+T20	Mustelid 2784 2789	Otter
+T21	Lagomorph 2859 2865	Rabbit
+T22	Lagomorph 2932 2938	Rabbit
+T23	Mustelid 2955 2960	otter
+T24	Mustelid 3040 3045	Otter
+T25	Lagomorph 3070 3076	Rabbit
+T26	Mustelid 3229 3234	Otter
+T27	Lagomorph 3279 3285	Rabbit
+T28	Mustelid 3295 3300	Otter
+T29	Lagomorph 3380 3386	Rabbit
+T30	Mustelid 3396 3401	Otter
+T31	Mustelid 3534 3539	Otter
+T32	Mustelid 3616 3621	Otter
+T33	Mustelid 3769 3774	Otter
+T34	Bear 3871 3875	Bear
+T35	Lagomorph 3927 3933	Rabbit
+T36	Bear 3997 4001	Bear
+T37	Lagomorph 4049 4055	Rabbit
+A1	Motif_attribute1 T1 Protagonist
+A2	Motif_attribute2 T1 Good
+A3	Motif_attribute1 T2 Antagonist
+A4	Motif_attribute2 T2 Evil
+A5	Motif_attribute1 T34 Default
+A6	Motif_attribute2 T34 Neutral

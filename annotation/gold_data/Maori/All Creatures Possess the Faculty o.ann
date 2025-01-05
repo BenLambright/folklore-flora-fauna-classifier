@@ -1,0 +1,12 @@
+T1	Bird 708 713	birds
+T2	Fish 734 738	fish
+T3	Canine 978 981	dog
+T4	Bird 985 989	bird
+T5	Canine 1091 1095	dogs
+T6	Bird 1100 1105	birds
+A1	Motif_attribute1 T1 Default
+A2	Motif_attribute2 T1 Neutral
+A3	Motif_attribute1 T2 Default
+A4	Motif_attribute2 T2 Neutral
+A5	Motif_attribute1 T3 Default
+A6	Motif_attribute2 T3 Neutral

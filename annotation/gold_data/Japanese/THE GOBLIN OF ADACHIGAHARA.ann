@@ -1,0 +1,17 @@
+T1	Tree 1478 1483	trees
+T2	Tree 1517 1522	trees
+T3	Crop 1907 1913	bamboo
+T4	Plant 1935 1940	weeds
+T5	Crop 2305 2311	bamboo
+T6	Flower 2638 2642	rose
+T7	Flower 6500 6504	rose
+T8	Flower 8697 8701	rose
+A1	Motif_attribute1 T3 Default
+A2	Motif_attribute2 T3 Neutral
+A3	Motif_attribute1 T4 Default
+A4	Motif_attribute2 T4 Neutral
+#1	AnnotatorNotes T6	verb not the flower
+A5	Motif_attribute1 T2 Default
+A6	Motif_attribute2 T2 Neutral
+#2	AnnotatorNotes T7	verb not the flower
+#3	AnnotatorNotes T8	verb not the flower

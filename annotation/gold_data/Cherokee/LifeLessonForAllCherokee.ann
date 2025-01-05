@@ -1,0 +1,45 @@
+T1	Lbb 455 464	Chickadee
+T2	Rodent 555 560	Mouse
+T3	Raptor 585 589	Hawk
+T4	Bear 1161 1165	Bear
+T5	Raptor 1245 1250	Eagle
+T6	Raptor 1274 1278	Hawk
+T7	Tree 1381 1386	trees
+T8	Testudine 1595 1601	turtle
+T9	Ungulate 1628 1632	Deer
+T10	Rodent 2095 2099	mice
+T11	Tree 2116 2120	tree
+T12	Raptor 2169 2174	Eagle
+T13	Raptor 2400 2405	Eagle
+T14	Raptor 2581 2585	Hawk
+T15	Rodent 2784 2788	mice
+T16	Raptor 2861 2865	Hawk
+T17	Raptor 3024 3028	Hawk
+T18	Rodent 3064 3068	mice
+T19	Rodent 3101 3106	mouse
+T20	Tree 3166 3170	tree
+T21	Bat 3199 3202	Bat
+T22	Rodent 3235 3240	mouse
+T23	Tree 3286 3290	tree
+T24	Rodent 3377 3385	Squirrel
+T25	Bear 3544 3548	Bear
+A1	Motif_attribute1 T7 Default
+A2	Motif_attribute2 T7 Neutral
+A3	Motif_attribute1 T1 Default
+A4	Motif_attribute2 T1 Neutral
+A5	Motif_attribute1 T3 Default
+A6	Motif_attribute2 T3 Good
+A7	Motif_attribute1 T4 Antagonist
+A8	Motif_attribute2 T4 Evil
+A9	Motif_attribute1 T5 Protagonist
+A10	Motif_attribute2 T5 Good
+A11	Motif_attribute1 T8 Default
+A12	Motif_attribute2 T8 Neutral
+A13	Motif_attribute1 T9 Default
+A14	Motif_attribute2 T9 Neutral
+A15	Motif_attribute1 T10 Protagonist
+A16	Motif_attribute2 T10 Good
+A17	Motif_attribute1 T21 Protagonist
+A18	Motif_attribute2 T21 Neutral
+A19	Motif_attribute1 T24 Protagonist
+A20	Motif_attribute2 T24 Good

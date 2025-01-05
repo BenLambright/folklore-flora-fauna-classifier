@@ -1,0 +1,42 @@
+T1	Bear 341 345	bear
+T2	Snake 696 703	serpent
+T3	Coniferous 773 777	pine
+T4	Tree 778 782	tree
+T5	Snake 3370 3377	serpent
+T6	Fish 4623 4629	fishes
+T7	Fish 4721 4725	carp
+T8	Fish 4739 4744	trout
+T9	Flower 4883 4888	lotus
+T10	Flower 4900 4907	flowers
+T11	Fish 5080 5084	carp
+T12	Flower 5453 5457	rose
+T13	Insect 6452 6455	fly
+T14	Insect 6688 6691	fly
+T15	Insect 7827 7830	fly
+T16	Fish 9244 9248	fish
+T17	Fish 10123 10127	fish
+#1	AnnotatorNotes T1	not the animal
+A1	Motif_attribute1 T3 Default
+A2	Motif_attribute2 T3 Neutral
+A3	Motif_attribute1 T4 Default
+A4	Motif_attribute2 T4 Neutral
+A5	Motif_attribute1 T6 Default
+A6	Motif_attribute2 T6 Good
+A7	Motif_attribute1 T7 Default
+A8	Motif_attribute2 T7 Good
+A9	Motif_attribute1 T8 Default
+A10	Motif_attribute2 T8 Good
+#2	AnnotatorNotes T12	verb not the flower
+A11	Motif_attribute1 T9 Default
+A12	Motif_attribute2 T9 Neutral
+A13	Motif_attribute1 T10 Default
+A14	Motif_attribute2 T10 Neutral
+A15	Motif_attribute1 T11 Default
+A16	Motif_attribute2 T11 Good
+#3	AnnotatorNotes T13	verb not the insect
+#4	AnnotatorNotes T14	verb not the insect
+#5	AnnotatorNotes T15	verb not the insect
+A17	Motif_attribute1 T17 Default
+A18	Motif_attribute2 T17 Neutral
+A19	Motif_attribute1 T5 Protagonist
+A20	Motif_attribute2 T5 Good

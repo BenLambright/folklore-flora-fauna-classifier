@@ -1,0 +1,19 @@
+T1	Canine 34 37	dog
+T2	Canine 72 75	dog
+T3	Canine 232 235	dog
+T4	Canine 414 420	wolves
+T5	Canine 548 551	dog
+T6	Canine 710 713	dog
+T7	Canine 850 853	dog
+T8	Canine 1392 1398	wolves
+T9	Canine 1476 1479	dog
+T10	Canine 1526 1532	wolves
+T11	Canine 2088 2091	dog
+T12	Canine 2122 2128	wolves
+T13	Canine 2290 2293	dog
+T14	Canine 2370 2373	dog
+T15	Canine 2412 2415	dog
+A1	Motif_attribute1 T13 Protagonist
+A2	Motif_attribute2 T13 Good
+A3	Motif_attribute1 T12 Antagonist
+A4	Motif_attribute2 T12 Evil

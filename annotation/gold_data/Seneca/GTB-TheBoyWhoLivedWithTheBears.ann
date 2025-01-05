@@ -1,0 +1,64 @@
+T1	Canine 148 152	wolf
+T2	Rodent 2867 2876	porcupine
+T3	Rodent 3126 3135	porcupine
+T4	Bear 3427 3431	bear
+T5	Shrub 3570 3577	berries
+T6	Bear 3947 3951	bear
+T7	Bear 4016 4020	bear
+T8	Bear 4214 4218	bear
+T9	Bear 4415 4420	bears
+T10	Bear 4516 4520	bear
+T11	Shrub 4558 4565	berries
+T12	Shrub 4923 4930	berries
+T13	Bear 4944 4948	bear
+T14	Shrub 5053 5060	berries
+T15	Bear 5124 5128	bear
+T16	Shrub 5192 5199	berries
+T17	Bird 5233 5238	birds
+T18	Shrub 5252 5257	berry
+T19	Bird 5631 5636	birds
+T20	Bear 5659 5664	bears
+T21	Shrub 5746 5753	berries
+T22	Bear 5860 5864	bear
+T23	Bear 6009 6014	bears
+T24	Bear 6124 6128	bear
+T25	Coniferous 6325 6329	pine
+T26	Bear 6451 6456	bears
+T27	Tree 6487 6491	tree
+T28	Bear 6517 6521	bear
+T29	Coniferous 6613 6617	pine
+T30	Bear 6645 6650	bears
+T31	Deciduous 6673 6681	chestnut
+T32	Tree 6682 6686	tree
+T33	Bear 6775 6780	bears
+T34	Bear 6808 6812	bear
+T35	Bear 7251 7255	bear
+T36	Bear 7469 7474	bears
+T37	Bear 7568 7572	bear
+T38	Bear 7680 7685	bears
+T39	Tree 7747 7751	tree
+T40	Bear 7771 7775	bear
+T41	Canine 7911 7914	dog
+T42	Tree 7992 7996	tree
+T43	Tree 8081 8085	tree
+T44	Tree 8199 8203	tree
+T45	Bear 8445 8449	bear
+T46	Bear 9191 9195	bear
+A1	Motif_attribute1 T1 Default
+A2	Motif_attribute2 T1 Neutral
+A3	Motif_attribute1 T2 Default
+A4	Motif_attribute2 T2 Good
+A5	Motif_attribute1 T4 Default
+A6	Motif_attribute2 T4 Good
+A7	Motif_attribute1 T5 Default
+A8	Motif_attribute2 T5 Neutral
+A9	Motif_attribute1 T17 Default
+A10	Motif_attribute2 T17 Evil
+A11	Motif_attribute1 T25 Default
+A12	Motif_attribute2 T25 Neutral
+A13	Motif_attribute1 T31 Default
+A14	Motif_attribute2 T31 Neutral
+A15	Motif_attribute1 T32 Default
+A16	Motif_attribute2 T32 Neutral
+A17	Motif_attribute1 T41 Default
+A18	Motif_attribute2 T41 Neutral

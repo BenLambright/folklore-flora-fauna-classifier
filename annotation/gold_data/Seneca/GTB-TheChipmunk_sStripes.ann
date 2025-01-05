@@ -1,0 +1,15 @@
+T1	Bear 19 23	bear
+T2	Rodent 77 85	chipmunk
+T3	Bear 155 159	bear
+T4	Rodent 181 189	chipmunk
+T5	Bear 302 306	bear
+T6	Rodent 364 372	chipmunk
+T7	Bear 665 669	bear
+T8	Rodent 734 742	chipmunk
+T9	Rodent 810 818	chipmunk
+T10	Rodent 889 897	chipmunk
+T11	Rodent 1003 1011	chipmunk
+A1	Motif_attribute1 T1 Protagonist
+A2	Motif_attribute2 T1 Evil
+A3	Motif_attribute1 T2 Antagonist
+A4	Motif_attribute2 T2 Good

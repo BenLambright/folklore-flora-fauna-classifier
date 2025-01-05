@@ -1,0 +1,13 @@
+T1	Tree 741 746	trees
+T2	Tree 898 903	trees
+T3	Tree 965 970	trees
+T4	Coniferous 1488 1494	totara
+T5	Rodent 1496 1505	porcupine
+T6	Fish 1506 1510	fish
+A1	Motif_attribute1 T1 Default
+A2	Motif_attribute2 T1 Neutral
+A3	Motif_attribute1 T4 Default
+A4	Motif_attribute2 T4 Neutral
+#1	AnnotatorNotes T5	porcupine-fish (not separately porcupine and fish)
+A5	Motif_attribute1 T6 Default
+A6	Motif_attribute2 T6 Neutral

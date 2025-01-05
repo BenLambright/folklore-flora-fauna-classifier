@@ -1,0 +1,21 @@
+T1	Other-Mammal 2 9	Raccoon
+T2	Canine 20 24	Wolf
+T3	Canine 83 87	Wolf
+T4	Other-Mammal 133 140	Raccoon
+T5	Tree 177 181	tree
+T6	Canine 211 215	Wolf
+T7	Tree 241 245	tree
+T8	Canine 307 311	Wolf
+T9	Other-Mammal 380 387	Raccoon
+T10	Other-Mammal 564 571	Raccoon
+T11	Tree 586 590	tree
+T12	Canine 635 639	Wolf
+T13	Canine 768 772	Wolf
+T14	Canine 816 820	Wolf
+T15	Canine 998 1002	Wolf
+T16	Canine 1054 1058	Wolf
+A1	Motif_attribute1 T5 Default
+A2	Motif_attribute2 T5 Neutral
+A3	Motif_attribute1 T1 Antagonist
+A4	Motif_attribute2 T1 Evil
+A6	Motif_attribute2 T2 Neutral

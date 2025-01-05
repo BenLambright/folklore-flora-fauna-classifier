@@ -1,0 +1,9 @@
+T1	Ungulate 274 278	deer
+T2	Ungulate 398 402	deer
+T3	Flower 5103 5107	rose
+T4	Bear 5806 5810	bear
+#1	AnnotatorNotes T3	verb not the flower
+A1	Motif_attribute1 T4 Default
+A2	Motif_attribute2 T4 Neutral
+A3	Motif_attribute1 T1 Default
+A4	Motif_attribute2 T1 Neutral

@@ -1,0 +1,29 @@
+T1	Snake 2928 2934	snakes
+T2	Snake 2979 2985	snakes
+T3	Snake 3128 3134	snakes
+T4	Crop 3343 3347	corn
+T5	Tree 4199 4203	tree
+T6	Tree 4604 4608	tree
+T7	Tree 5570 5574	tree
+T8	Tree 5890 5894	tree
+T9	Bear 6062 6066	bear
+T10	Bear 6169 6173	bear
+T11	Bear 7045 7050	bears
+T12	Bear 7080 7085	bears
+T13	Ungulate 7389 7394	fawns
+T14	Canine 8180 8184	wolf
+T15	Canine 8232 8238	wolves
+A1	Motif_attribute1 T1 Default
+A2	Motif_attribute2 T1 Neutral
+A3	Motif_attribute1 T4 Default
+A4	Motif_attribute2 T4 Neutral
+A5	Motif_attribute1 T5 Default
+A6	Motif_attribute2 T5 Neutral
+A7	Motif_attribute1 T9 Default
+A8	Motif_attribute2 T9 Neutral
+A9	Motif_attribute1 T11 Default
+A10	Motif_attribute2 T11 Neutral
+A11	Motif_attribute1 T13 Default
+A12	Motif_attribute2 T13 Neutral
+A13	Motif_attribute1 T15 Default
+A14	Motif_attribute2 T15 Good

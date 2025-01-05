@@ -1,0 +1,17 @@
+T1	Bird 91 95	bird
+T2	Bird 130 134	bird
+T3	Bird 242 246	bird
+T4	Bird 343 347	bird
+T5	Bird 508 512	bird
+T6	Bird 558 562	bird
+T7	Ungulate 1076 1082	horses
+T8	Ungulate 1174 1181	carabao
+T9	Fowl 1250 1258	chickens
+A1	Motif_attribute1 T6 Default
+A2	Motif_attribute2 T6 Neutral
+A3	Motif_attribute1 T7 Default
+A4	Motif_attribute2 T7 Neutral
+A5	Motif_attribute1 T8 Default
+A6	Motif_attribute2 T8 Neutral
+A7	Motif_attribute1 T9 Default
+A8	Motif_attribute2 T9 Neutral

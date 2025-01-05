@@ -1,0 +1,6 @@
+T1	Eel 174 178	eels
+T2	Eel 279 283	eels
+T3	Bear 1762 1766	Bear
+#1	AnnotatorNotes T3	not the animal
+A1	Motif_attribute1 T2 Default
+A2	Motif_attribute2 T2 Neutral

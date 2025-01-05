@@ -1,0 +1,77 @@
+T1	Bear 20 24	Bear
+T2	Bear 213 217	Bear
+T3	Bear 379 383	Bear
+T4	Bear 409 413	Bear
+T5	Tree 487 491	tree
+T6	Tree 566 570	tree
+T7	Bear 590 594	Bear
+T8	Bear 737 741	Bear
+T9	Bear 767 771	Bear
+T10	Primate 823 828	human
+T11	Bear 898 902	Bear
+T12	Bear 1051 1055	Bear
+T13	Bear 1128 1132	Bear
+T14	Bear 1171 1175	Bear
+T15	Testudine 1276 1282	turtle
+T16	Testudine 1341 1347	Turtle
+T17	Bear 1371 1375	Bear
+T18	Bear 1409 1413	Bear
+T19	Testudine 1418 1424	Turtle
+T20	Bear 1678 1682	Bear
+T21	Testudine 1687 1693	Turtle
+T22	Testudine 1780 1786	Turtle
+T23	Bear 1850 1854	Bear
+T24	Bear 2068 2072	Bear
+T25	Testudine 2130 2136	Turtle
+T26	Canine 2220 2223	Fox
+T27	Bear 2614 2618	Bear
+T28	Testudine 2659 2665	Turtle
+T29	Canine 2668 2671	Fox
+T30	Bear 2718 2722	Bear
+T31	Bear 2729 2733	Bear
+T32	Canine 2856 2859	Fox
+T33	Testudine 2882 2888	Turtle
+T34	Testudine 2895 2901	Turtle
+T35	Canine 2966 2969	Fox
+T36	Testudine 3021 3027	Turtle
+T37	Bear 3055 3059	Bear
+T38	Bear 3161 3165	Bear
+T39	Testudine 3204 3210	Turtle
+T40	Testudine 3257 3263	Turtle
+T41	Bear 3279 3283	Bear
+T42	Testudine 3307 3313	Turtle
+T43	Bear 3339 3343	Bear
+T44	Testudine 3368 3374	turtle
+T45	Bear 3406 3410	Bear
+T46	Bear 3529 3533	Bear
+T47	Bear 3587 3591	Bear
+T48	Bear 3685 3689	Bear
+T49	Testudine 3713 3719	Turtle
+T50	Bear 3766 3770	Bear
+T51	Bear 3795 3799	Bear
+T52	Testudine 3912 3918	turtle
+T53	Bear 4014 4018	Bear
+T54	Bear 4059 4063	Bear
+T55	Testudine 4099 4105	Turtle
+T56	Testudine 4177 4183	Turtle
+T57	Testudine 4252 4258	Turtle
+T58	Bear 4337 4341	Bear
+T59	Bear 4349 4353	Bear
+T60	Testudine 4606 4612	turtle
+T61	Testudine 4650 4656	Turtle
+T62	Testudine 4710 4716	Turtle
+T63	Testudine 4926 4932	Turtle
+T64	Testudine 5051 5058	turtles
+T65	Testudine 5113 5119	Turtle
+T66	Testudine 5121 5127	Turtle
+T67	Testudine 5190 5197	turtles
+A1	Motif_attribute1 T5 Default
+A2	Motif_attribute2 T5 Neutral
+A3	Motif_attribute1 T10 Default
+A4	Motif_attribute2 T10 Neutral
+A5	Motif_attribute1 T1 Protagonist
+A6	Motif_attribute2 T1 Neutral
+A7	Motif_attribute1 T15 Antagonist
+A8	Motif_attribute2 T15 Neutral
+A9	Motif_attribute1 T26 Default
+A10	Motif_attribute2 T26 Good

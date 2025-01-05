@@ -1,0 +1,54 @@
+T1	Other-Mammal 10 14	coon
+T2	Decapod 109 117	crawfish
+T3	Decapod 735 743	crawfish
+T4	Other-Mammal 803 807	Coon
+T5	Other-Mammal 955 959	Coon
+T6	Decapod 1052 1060	Crawfish
+T7	Decapod 1692 1700	Crawfish
+T8	Other-Mammal 1922 1926	Coon
+T9	Insect 1958 1963	flies
+T10	Other-Mammal 2963 2967	coon
+T11	Other-Mammal 3237 3241	Coon
+T12	Other-Mammal 3403 3407	Coon
+T13	Other-Mammal 3480 3484	Coon
+T14	Other-Mammal 3752 3756	Coon
+T15	Decapod 3906 3914	Crawfish
+T16	Other-Mammal 4027 4031	Coon
+T17	Decapod 4172 4180	Crawfish
+T18	Decapod 4339 4347	Crawfish
+T19	Tree 4483 4487	tree
+T20	Tree 4541 4545	tree
+T21	Tree 4579 4583	tree
+T22	Tree 4623 4627	tree
+T23	Tree 4642 4646	tree
+T24	Deciduous 4671 4674	oak
+T25	Decapod 4680 4688	Crawfish
+T26	Deciduous 4711 4715	oaks
+T27	Tree 4843 4847	tree
+T28	Tree 4913 4917	tree
+T29	Tree 4932 4936	tree
+T30	Tree 4984 4989	trees
+T31	Deciduous 5017 5021	oaks
+T32	Decapod 5029 5037	Crawfish
+T33	Tree 5230 5234	tree
+T34	Tree 5271 5275	tree
+T35	Tree 5290 5294	tree
+T36	Deciduous 5313 5323	cottonwood
+T37	Decapod 5329 5337	Crawfish
+T38	Tree 5507 5511	tree
+T39	Tree 5539 5543	tree
+T40	Deciduous 5562 5568	willow
+T41	Tree 5584 5588	tree
+T42	Decapod 5597 5605	Crawfish
+A1	Motif_attribute1 T24 Default
+A2	Motif_attribute2 T24 Neutral
+A3	Motif_attribute1 T28 Default
+A4	Motif_attribute2 T28 Neutral
+A5	Motif_attribute1 T36 Default
+A6	Motif_attribute2 T36 Neutral
+A7	Motif_attribute1 T40 Default
+A8	Motif_attribute2 T40 Neutral
+A9	Motif_attribute1 T10 Antagonist
+A10	Motif_attribute2 T10 Evil
+A11	Motif_attribute1 T15 Protagonist
+A12	Motif_attribute2 T15 Good

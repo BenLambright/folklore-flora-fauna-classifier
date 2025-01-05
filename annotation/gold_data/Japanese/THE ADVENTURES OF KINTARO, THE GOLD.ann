@@ -1,0 +1,119 @@
+T1	Tree 878 883	trees
+T2	Bear 1606 1610	bear
+T3	Ungulate 1616 1620	deer
+T4	Primate 1626 1632	monkey
+T5	Lagomorph 1641 1645	hare
+T6	Bear 1654 1658	bear
+T7	Ungulate 1827 1831	deer
+T8	Bear 2057 2061	bear
+T9	Ungulate 2067 2071	deer
+T10	Primate 2077 2083	monkey
+T11	Lagomorph 2093 2097	hare
+T12	Flower 2248 2255	flowers
+T13	Ungulate 2343 2347	deer
+T14	Tree 2375 2379	tree
+T15	Primate 2398 2404	monkey
+T16	Lagomorph 2429 2433	hare
+T17	Bear 2466 2470	bear
+T18	Bear 2602 2606	bear
+T19	Bear 3060 3064	bear
+T20	Ungulate 3073 3077	deer
+T21	Primate 3083 3089	monkey
+T22	Lagomorph 3098 3102	hare
+T23	Bear 3127 3131	bear
+T24	Primate 3248 3254	monkey
+T25	Lagomorph 3263 3267	hare
+T26	Ungulate 3298 3302	deer
+T27	Ungulate 3329 3333	Deer
+T28	Ungulate 3384 3388	deer
+T29	Primate 3418 3424	Monkey
+T30	Lagomorph 3433 3437	Hare
+T31	Primate 3529 3535	monkey
+T32	Lagomorph 3544 3548	hare
+T33	Ungulate 3617 3621	deer
+T34	Primate 3710 3716	monkey
+T35	Lagomorph 3790 3794	hare
+T36	Ungulate 3894 3898	deer
+T37	Primate 3961 3967	monkey
+T38	Lagomorph 3976 3980	hare
+T39	Primate 4043 4049	monkey
+T40	Lagomorph 4058 4062	hare
+T41	Ungulate 4077 4081	deer
+T42	Lagomorph 4150 4154	hare
+T43	Primate 4162 4168	monkey
+T44	Ungulate 4312 4316	deer
+T45	Primate 4379 4385	monkey
+T46	Bear 4409 4413	bear
+T47	Primate 4425 4431	monkey
+T48	Lagomorph 4440 4444	hare
+T49	Lagomorph 4524 4528	hare
+T50	Primate 4551 4557	monkey
+T51	Primate 4563 4569	monkey
+T52	Lagomorph 4597 4601	hare
+T53	Primate 4684 4690	monkey
+T54	Primate 4827 4833	monkey
+T55	Ungulate 4868 4872	deer
+T56	Lagomorph 4935 4939	hare
+T57	Lagomorph 5037 5041	hare
+T58	Primate 5116 5122	monkey
+T59	Lagomorph 5414 5418	hare
+T60	Lagomorph 5487 5491	hare
+T61	Primate 5500 5506	monkey
+T62	Primate 5560 5566	monkey
+T63	Lagomorph 5645 5649	hare
+T64	Lagomorph 5761 5765	hare
+T65	Lagomorph 5810 5814	hare
+T66	Primate 5905 5911	monkey
+T67	Lagomorph 5971 5975	hare
+T68	Primate 6037 6043	monkey
+T69	Ungulate 6176 6180	deer
+T70	Lagomorph 6207 6211	hare
+T71	Lagomorph 6305 6309	hare
+T72	Bear 6357 6361	bear
+T73	Ungulate 6393 6397	deer
+T74	Lagomorph 6422 6426	hare
+T75	Ungulate 6530 6534	deer
+T76	Bear 6574 6578	bear
+T77	Bear 7447 7451	bear
+T78	Ungulate 7457 7461	deer
+T79	Primate 7467 7473	monkey
+T80	Lagomorph 7482 7486	hare
+T81	Tree 7555 7559	tree
+T82	Tree 7647 7651	tree
+T83	Tree 7894 7898	tree
+T84	Tree 8518 8522	tree
+T85	Coniferous 9174 9178	pine
+T86	Bear 9497 9501	bear
+T87	Ungulate 9507 9511	deer
+T88	Primate 9517 9523	monkey
+T89	Lagomorph 9533 9537	hare
+T90	Bear 9999 10003	bear
+T91	Bear 10071 10075	bear
+T92	Bear 10118 10122	bear
+T93	Ungulate 10177 10181	deer
+T94	Primate 10187 10193	monkey
+T95	Lagomorph 10203 10207	hare
+T96	Tree 11671 11675	tree
+T97	Bear 14568 14572	bear
+T98	Ungulate 14578 14582	deer
+T99	Primate 14588 14594	monkey
+T100	Lagomorph 14604 14608	hare
+T101	Tree 14989 14993	tree
+T102	Flower 16374 16378	rose
+A1	Motif_attribute1 T1 Default
+A2	Motif_attribute2 T1 Neutral
+A3	Motif_attribute1 T12 Default
+A4	Motif_attribute2 T12 Neutral
+A5	Motif_attribute1 T82 Default
+A6	Motif_attribute2 T82 Neutral
+A7	Motif_attribute1 T85 Default
+A8	Motif_attribute2 T85 Neutral
+#1	AnnotatorNotes T102	verb not the flower
+A9	Motif_attribute1 T97 Default
+A10	Motif_attribute2 T97 Good
+A11	Motif_attribute1 T98 Default
+A12	Motif_attribute2 T98 Good
+A13	Motif_attribute1 T99 Default
+A14	Motif_attribute2 T99 Good
+A15	Motif_attribute1 T100 Default
+A16	Motif_attribute2 T100 Good
