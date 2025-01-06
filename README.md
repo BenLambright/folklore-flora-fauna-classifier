@@ -54,26 +54,27 @@ Developed annotation guidelines with a group to have students in the class hand-
 
 ## **Directory Structure**
 
+<pre>
 project/
 │
 ├── annotation/
 │   ├── adjudication.ipynb/                                 # Script to flag disagreements and get statistics
 │   ├── Changelog.docx/                                     # Log of annotation guideline updates
 │   ├── Folklore_Team_Annotation_Guidelines.pdf/            # Guidelines
-│   ├── gold_data/            # Guidelines
-│   └── 
+│   ├── gold_data/                                          # Includes brat annotation configuration and gold annotations
+│   ├── Sample Annotations For Presentation.docx/           # Exampe annotations
+│   ├── Simplified Archetypes.docx/                         # Explanation of each archetype
 │
-├── models/
-│   ├── logistic_regression/  # Model-specific files
-│   ├── transformer/          # Model-specific files
-│   └── results/              # Output from evaluations
+├── Annotation_Final_Report.pdf/                            # Conference style report on project
+├── Final Presentation.pptx/                                # Final class presentation
+|   
+├── model tests/
+│   ├── LLM-prompting/        # Model-specific files, run `model_v1.ipynb` or `stats.py` for use
+│   ├── statistical-models/   # Model-specific files, run `naive-bayes.py` for use
 │
-├── notebooks/                # Jupyter notebooks for exploration
-│
-├── scripts/                  # Training, evaluation, and preprocessing scripts
-│
-├── requirements.txt          # Dependencies for the project
 └── README.md                 # Project documentation
+</pre>
+
 
 
 
