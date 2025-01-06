@@ -70,7 +70,7 @@ project/
 |   
 ├── model tests/
 │   ├── LLM-prompting/        # Model-specific files, run `model_v1.ipynb` or `stats.py` for use
-│   ├── statistical-models/   # Model-specific files, run `naive-bayes.py` for use
+│   ├── statistical-models/   # Model-specific files, run `statistical_models.py` for use
 │
 └── README.md                 # Project documentation
 </pre>
