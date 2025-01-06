@@ -1,4 +1,4 @@
-# folklore_flora/fauna_classifier
+# folklore_flora_fauna_classifier
 final project for an annotation course (COSI 230 - Brandeis University)
 
 Developed annotation guidelines with a group to have students in the class hand-annotate folklore to identify and classify flora and fauny in stories using brat. Using these annotations, we attempted to classify the archetypal roles flora and fauna play in these stories.
